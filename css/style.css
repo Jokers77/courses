@@ -1,0 +1,13 @@
+body {
+	background: lightgray !important;
+}
+
+.marge {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.container {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}	
